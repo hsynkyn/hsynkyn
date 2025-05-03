@@ -6,7 +6,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hüseyin-kayan-930b991a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/in/hüseyin-kayan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   <a href="https://medium.com/@devhkayan" target="_blank">
